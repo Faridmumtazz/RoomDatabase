@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/appdev/RoomDatabase/app/src/main/res/drawable/ic_delete.xml" value="0.1" />
+        <entry key="..\:/appdev/RoomDatabase/app/src/main/res/drawable/ic_edit.xml" value="0.167" />
         <entry key="..\:/appdev/RoomDatabase/app/src/main/res/layout/activity_add_student.xml" value="0.22" />
         <entry key="..\:/appdev/RoomDatabase/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/appdev/RoomDatabase/app/src/main/res/layout/item_adapter_student.xml" value="0.184375" />
       </map>
     </option>
   </component>
