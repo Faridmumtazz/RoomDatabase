@@ -1,5 +1,6 @@
 package mumtaz.binar.roomdatabase
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Toast
@@ -31,6 +32,7 @@ class AddStudentActivity : AppCompatActivity() {
                     }
                 }
             }
+            startActivity(Intent(it.context, MainActivity::class.java))
         }
     }
 }
